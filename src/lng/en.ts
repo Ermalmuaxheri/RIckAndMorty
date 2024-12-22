@@ -1,0 +1,28 @@
+const EN = {
+  all: "All",
+  filter: "Filter by Status and Species",
+  name: "Name",
+  gender: "Gender",
+  origin: "Origin",
+  status: "Status",
+  species: "Species",
+  alive: "Alive",
+  dead: "Dead",
+  unknown: "Unknown",
+  human: "Human",
+  alien: "Alien",
+  characters: "Characters",
+  loading: "Loading",
+  enableScroll: "Enable Infinite Scroll",
+  load: "Load More",
+  male: "Male",
+  female: "Female",
+  myth: "Mythological Creature",
+  allSpecies: "All Species",
+  animal: "Animal",
+  robot: "Robot",
+  filterByStatus: "Filter By Status",
+  filterBySpecies: "Filter By Species",
+};
+
+export default EN;
